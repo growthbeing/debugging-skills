@@ -1,4 +1,4 @@
-# Debugging Skills :man_technologist:
+# Debugging Skills
 
 Debugging is an essential skill for software developers, and being good and fast at it can save a lot of time and effort. Here are some simple steps that can help you become a better debugger:
 
