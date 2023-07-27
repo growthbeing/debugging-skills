@@ -19,6 +19,6 @@ By following these simple steps and incorporating best practices, you can become
 
 **```Code is a liability, not an asset. So the goal of a software engineer is to deliver the maximum amount of desired functionality at the cost of the least amount of code complexity, even as desired functionality evolves over time.```**
 
-### Resources :book:
+### Resources
 
 - **How to improve your debugging skills** - [https://www.freecodecamp.org/news/how-to-improve-your-debugging-skills/](https://www.freecodecamp.org/news/how-to-improve-your-debugging-skills/)
