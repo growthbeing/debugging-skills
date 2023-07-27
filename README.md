@@ -17,6 +17,8 @@ Debugging is an essential skill for software developers, and being good and fast
 By following these simple steps and incorporating best practices, you can become a better and faster debugger and help ensure that your code meets business requirements and delivers value to end-users.
 
 
+**```Code is a liability, not an asset. So the goal of a software engineer is to deliver the maximum amount of desired functionality at the cost of the least amount of code complexity, even as desired functionality evolves over time.```**
+
 ### Resources :book:
 
 - **How to improve your debugging skills** - [https://www.freecodecamp.org/news/how-to-improve-your-debugging-skills/](https://www.freecodecamp.org/news/how-to-improve-your-debugging-skills/)
